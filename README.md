@@ -1,6 +1,6 @@
 ### Hi there, I'm 0xStresedd 👋
 
-- 🔭 I’m currently working on DarkFish Scraper, a tool that scrapes discord tokens from GitHub.
+- 🔭 I’m currently working on DarkFish Scraper, a tool that scrapes shoe prices from StockX.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: On Discord. 0xStressedd#3136
 - 😄 Pronouns: He/His
